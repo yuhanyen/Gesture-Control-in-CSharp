@@ -1,0 +1,11 @@
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\bin\Debug\GestureCrtlUI.exe.config
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\bin\Debug\GestureCrtlUI.exe
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\bin\Debug\GestureCrtlUI.pdb
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\bin\Debug\MySql.Data.dll
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\bin\Debug\MySql.Data.xml
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\obj\Debug\GestureCrtlUI.Form1.resources
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\obj\Debug\GestureCrtlUI.Properties.Resources.resources
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\obj\Debug\GestureCrtlUI.csproj.GenerateResource.Cache
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\obj\Debug\GestureCrtlUI.exe
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\obj\Debug\GestureCrtlUI.pdb
+c:\users\函諺\documents\visual studio 2015\Projects\GestureCrtlUI\GestureCrtlUI\obj\Debug\GestureCrtlUI.csprojResolveAssemblyReference.cache
